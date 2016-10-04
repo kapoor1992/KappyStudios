@@ -1,0 +1,8 @@
+ALL
+Action
+Adventure
+Arcade
+Educational
+Racing
+Sports
+Strategy
