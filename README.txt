@@ -27,4 +27,4 @@ Step 3 - Execution:
 
 —— STEPS END ——
 
-[Video is here!](https://www.youtube.com/watch?v=2AYNq21M9bM)
+Video is here: https://www.youtube.com/watch?v=2AYNq21M9bM
